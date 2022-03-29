@@ -49,7 +49,7 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "jquery.terminal": "^2.16.0",
-    "js-beautify": "^1.12.0",
+    "js-beautify": "^1.14.1",
     "json-schema-defaults": "^0.4.0",
     "jstree": "^3.3.10",
     "jstree-bootstrap-theme": "^1.0.1",
