@@ -66,7 +66,7 @@
         <gson.version>2.6.2</gson.version>
         <freemarker.version>2.3.30</freemarker.version>
         <mail.version>1.6.2</mail.version>
-        <curator.version>4.2.0</curator.version>
+        <curator.version>5.4.0</curator.version>
         <zookeeper.version>3.5.5</zookeeper.version>
         <protobuf.version>3.11.4</protobuf.version>
         <grpc.version>1.22.1</grpc.version>
@@ -680,7 +680,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
