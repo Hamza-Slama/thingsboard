@@ -38,15 +38,15 @@
         <pkg.installFolder>/usr/share/${pkg.name}</pkg.installFolder>
         <spring-boot.version>2.2.6.RELEASE</spring-boot.version>
         <spring-oauth2.version>2.1.2.RELEASE</spring-oauth2.version>
-        <spring.version>5.2.6.RELEASE</spring.version>
+        <spring.version>5.3.39</spring.version>
         <spring-security.version>5.2.3.RELEASE</spring-security.version>
         <spring-data-redis.version>2.2.4.RELEASE</spring-data-redis.version>
         <jedis.version>3.1.0</jedis.version>
         <jjwt.version>0.7.0</jjwt.version>
         <json-path.version>2.2.0</json-path.version>
         <junit.version>4.12</junit.version>
-        <slf4j.version>1.7.7</slf4j.version>
-        <logback.version>1.2.3</logback.version>
+        <slf4j.version>1.7.36</slf4j.version>
+        <logback.version>1.5.7</logback.version>
         <mockito.version>1.9.5</mockito.version>
         <rat.version>0.10</rat.version>
         <cassandra.version>4.6.0</cassandra.version>
@@ -62,7 +62,7 @@
         <jackson-annotations.version>2.10.2</jackson-annotations.version>
         <jackson-core.version>2.10.2</jackson-core.version>
         <json-schema-validator.version>2.2.6</json-schema-validator.version>
-        <californium.version>1.0.2</californium.version>
+        <californium.version>1.0.7</californium.version>
         <gson.version>2.6.2</gson.version>
         <freemarker.version>2.3.30</freemarker.version>
         <mail.version>1.6.2</mail.version>
@@ -70,7 +70,7 @@
         <zookeeper.version>3.5.5</zookeeper.version>
         <protobuf.version>3.11.4</protobuf.version>
         <grpc.version>1.22.1</grpc.version>
-        <lombok.version>1.16.18</lombok.version>
+        <lombok.version>1.18.34</lombok.version>
         <paho.client.version>1.2.4</paho.client.version>
         <netty.version>4.1.49.Final</netty.version>
         <os-maven-plugin.version>1.5.0</os-maven-plugin.version>
@@ -680,7 +680,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
